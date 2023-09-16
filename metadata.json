@@ -1,0 +1,144 @@
+{
+    "Global YouTube Statistics": [
+        {
+            "column_name": "rank",
+            "data_type": "int64",
+            "column_position": 1
+        },
+        {
+            "column_name": "Youtuber",
+            "data_type": "object",
+            "column_position": 2
+        },
+        {
+            "column_name": "subscribers",
+            "data_type": "int64",
+            "column_position": 3
+        },
+        {
+            "column_name": "video views",
+            "data_type": "float64",
+            "column_position": 4
+        },
+        {
+            "column_name": "category",
+            "data_type": "object",
+            "column_position": 5
+        },
+        {
+            "column_name": "Title",
+            "data_type": "object",
+            "column_position": 6
+        },
+        {
+            "column_name": "uploads",
+            "data_type": "int64",
+            "column_position": 7
+        },
+        {
+            "column_name": "Country",
+            "data_type": "object",
+            "column_position": 8
+        },
+        {
+            "column_name": "Abbreviation",
+            "data_type": "object",
+            "column_position": 9
+        },
+        {
+            "column_name": "channel_type",
+            "data_type": "object",
+            "column_position": 10
+        },
+        {
+            "column_name": "video_views_rank",
+            "data_type": "float64",
+            "column_position": 11
+        },
+        {
+            "column_name": "country_rank",
+            "data_type": "float64",
+            "column_position": 12
+        },
+        {
+            "column_name": "channel_type_rank",
+            "data_type": "float64",
+            "column_position": 13
+        },
+        {
+            "column_name": "video_views_for_the_last_30_days",
+            "data_type": "float64",
+            "column_position": 14
+        },
+        {
+            "column_name": "lowest_monthly_earnings",
+            "data_type": "float64",
+            "column_position": 15
+        },
+        {
+            "column_name": "highest_monthly_earnings",
+            "data_type": "float64",
+            "column_position": 16
+        },
+        {
+            "column_name": "lowest_yearly_earnings",
+            "data_type": "float64",
+            "column_position": 17
+        },
+        {
+            "column_name": "highest_yearly_earnings",
+            "data_type": "float64",
+            "column_position": 18
+        },
+        {
+            "column_name": "subscribers_for_last_30_days",
+            "data_type": "float64",
+            "column_position": 19
+        },
+        {
+            "column_name": "created_year",
+            "data_type": "float64",
+            "column_position": 20
+        },
+        {
+            "column_name": "created_month",
+            "data_type": "object",
+            "column_position": 21
+        },
+        {
+            "column_name": "created_date",
+            "data_type": "float64",
+            "column_position": 22
+        },
+        {
+            "column_name": "Gross tertiary education enrollment (%)",
+            "data_type": "float64",
+            "column_position": 23
+        },
+        {
+            "column_name": "Population",
+            "data_type": "float64",
+            "column_position": 24
+        },
+        {
+            "column_name": "Unemployment rate",
+            "data_type": "float64",
+            "column_position": 25
+        },
+        {
+            "column_name": "Urban_population",
+            "data_type": "float64",
+            "column_position": 26
+        },
+        {
+            "column_name": "Latitude",
+            "data_type": "float64",
+            "column_position": 27
+        },
+        {
+            "column_name": "Longitude",
+            "data_type": "float64",
+            "column_position": 28
+        }
+    ]
+}
